@@ -1,4 +1,4 @@
-;(async () => {
+(async () => {
   var show = document.getElementById('post-meta-views')
   if (show !== null) {
     var url = document.location.toString()
